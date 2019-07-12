@@ -1,0 +1,4 @@
+E:\Documents\My RimWorld Mods\Prototypes\CarpenterTable\1.0\Assemblies\CarpenterTable.dll
+E:\Documents\My RimWorld Mods\Prototypes\CarpenterTable\Source\CarpenterTable\obj\Debug\CarpenterTable.csprojAssemblyReference.cache
+E:\Documents\My RimWorld Mods\Prototypes\CarpenterTable\Source\CarpenterTable\obj\Debug\CarpenterTable.csproj.CoreCompileInputs.cache
+E:\Documents\My RimWorld Mods\Prototypes\CarpenterTable\Source\CarpenterTable\obj\Debug\CarpenterTable.dll

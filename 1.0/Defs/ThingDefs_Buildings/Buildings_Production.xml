@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+    <ThingDef ParentName="BenchBase">
+        <defName>TableCarpenter</defName>
+        <label>carpenter's table</label>
+        <description>A heavy table for constructors to assemble furniture at.</description>
+        <thingClass>Building_WorkTable</thingClass>
+        <graphicData>
+            <texPath>Things/Building/Production/TableCarpenter</texPath>
+            <graphicClass>Graphic_Multi</graphicClass>
+            <drawSize>(3.5,1.5)</drawSize>
+            <shadowData>
+                <volume>(2.85, 0.3, 0.62)</volume>
+                <offset>(0, 0, 0.20)</offset>
+            </shadowData>
+            <damageData>
+                <cornerTL>Damage/Corner</cornerTL>
+                <cornerTR>Damage/Corner</cornerTR>
+                <cornerBL>Damage/Corner</cornerBL>
+                <cornerBR>Damage/Corner</cornerBR>
+            </damageData>
+        </graphicData>
+        <costStuffCount>75</costStuffCount>
+        <costList>
+            <Steel>30</Steel>
+        </costList>
+        <stuffCategories>
+            <li>Metallic</li>
+            <li>Woody</li>
+        </stuffCategories>
+        <altitudeLayer>Building</altitudeLayer>
+        <fillPercent>0.5</fillPercent>
+        <useHitPoints>True</useHitPoints>
+        <statBases>
+            <WorkToBuild>2000</WorkToBuild>
+            <MaxHitPoints>180</MaxHitPoints>
+            <Flammability>1.0</Flammability>
+        </statBases>
+        <size>(3,1)</size>
+        <designationCategory>Production</designationCategory>
+        <passability>PassThroughOnly</passability>
+        <pathCost>70</pathCost>
+        <hasInteractionCell>True</hasInteractionCell>
+        <interactionCellOffset>(0,0,-1)</interactionCellOffset>
+        <surfaceType>Item</surfaceType>
+        <terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
+        <inspectorTabs>
+            <li>ITab_Bills</li>
+        </inspectorTabs>
+        <building>
+            <spawnedConceptLearnOpportunity>BillsTab</spawnedConceptLearnOpportunity>
+        </building>
+        <comps>
+            <li Class="CompProperties_AffectedByFacilities">
+                <linkableFacilities>
+                    <li>ToolCabinet</li>
+                </linkableFacilities>
+            </li>
+        </comps>
+        <placeWorkers>
+            <li>PlaceWorker_ShowFacilitiesConnections</li>
+        </placeWorkers>
+    </ThingDef>
+
+</Defs>

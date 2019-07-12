@@ -1,0 +1,20 @@
+<Defs>
+
+    <WorkGiverDef>
+        <defName>DoBillsCarpentersTable</defName>
+        <label>do carpentry</label>
+        <giverClass>WorkGiver_DoBill</giverClass>
+        <workType>Construction</workType>
+        <priorityInType>79</priorityInType>
+        <fixedBillGiverDefs>
+            <li>CarpentersTable</li>
+        </fixedBillGiverDefs>
+        <verb>do carpentry</verb>
+        <gerund>doing carpentry at</gerund>
+        <requiredCapacities>
+            <li>Manipulation</li>
+        </requiredCapacities>
+        <prioritizeSustains>true</prioritizeSustains>
+    </WorkGiverDef>
+
+</Defs>
