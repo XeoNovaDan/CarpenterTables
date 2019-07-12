@@ -20,6 +20,7 @@
                 <cornerBL>Damage/Corner</cornerBL>
                 <cornerBR>Damage/Corner</cornerBR>
             </damageData>
+            <shaderType>CutoutComplex</shaderType>
         </graphicData>
         <costStuffCount>75</costStuffCount>
         <costList>

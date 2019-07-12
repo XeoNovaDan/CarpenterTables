@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Manifest>
     <identifier>CarpentersTable</identifier>
-    <version>0.1</version>
+    <version>1.0</version>
     <manifestUri>https://rawgit.com/XeoNovaDan/CarpentersTable/master/About/Manifest.xml</manifestUri>
     <downloadUri>https://github.com/XeoNovaDan/CarpentersTable/releases</downloadUri>
 </Manifest>
