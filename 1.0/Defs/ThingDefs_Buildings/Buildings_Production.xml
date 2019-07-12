@@ -7,7 +7,7 @@
         <description>A heavy table for constructors to assemble furniture at.</description>
         <thingClass>Building_WorkTable</thingClass>
         <graphicData>
-            <texPath>Things/Building/Production/TableCarpenter</texPath>
+            <texPath>Things/Building/Production/TableCarpenter/TableCarpenter</texPath>
             <graphicClass>Graphic_Multi</graphicClass>
             <drawSize>(3.5,1.5)</drawSize>
             <shadowData>

@@ -2,3 +2,7 @@ E:\Documents\My RimWorld Mods\Prototypes\CarpenterTable\1.0\Assemblies\Carpenter
 E:\Documents\My RimWorld Mods\Prototypes\CarpenterTable\Source\CarpenterTable\obj\Debug\CarpenterTable.csprojAssemblyReference.cache
 E:\Documents\My RimWorld Mods\Prototypes\CarpenterTable\Source\CarpenterTable\obj\Debug\CarpenterTable.csproj.CoreCompileInputs.cache
 E:\Documents\My RimWorld Mods\Prototypes\CarpenterTable\Source\CarpenterTable\obj\Debug\CarpenterTable.dll
+E:\Documents\GitHub\CarpentersTable\Source\CarpenterTable\obj\Debug\CarpenterTable.csprojAssemblyReference.cache
+E:\Documents\GitHub\CarpentersTable\Source\CarpenterTable\obj\Debug\CarpenterTable.csproj.CoreCompileInputs.cache
+E:\Documents\GitHub\CarpentersTable\Source\CarpenterTable\obj\Debug\CarpenterTable.dll
+E:\Documents\GitHub\CarpentersTable\1.0\Assemblies\CarpenterTable.dll

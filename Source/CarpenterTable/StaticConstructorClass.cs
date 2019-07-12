@@ -26,12 +26,13 @@ namespace CarpenterTable
                 var newRecipe = new RecipeDef()
                 {
                     defName = $"{GeneratedRecipeDefPrefix}_{buildingDef.defName}",
+                    modContentPack = CT_RecipeDefOf.BaseCarpentersTableRecipe.modContentPack,
                     label = $"[{buildingDef.designationCategory.label.ToUpper()}] - {"RecipeMake".Translate(buildingDef.label).CapitalizeFirst()}",
                     jobString = "RecipeMakeJobString".Translate(buildingDef.label),
                     workSpeedStat = StatDefOf.ConstructionSpeed,
                     workSkill = SkillDefOf.Construction,
                     unfinishedThingDef = CT_ThingDefOf.UnfinishedBuilding,
-                    recipeUsers = new List<ThingDef>() { CT_ThingDefOf.CarpentersTable },
+                    recipeUsers = new List<ThingDef>() { CT_ThingDefOf.TableCarpenter },
                     defaultIngredientFilter = CT_RecipeDefOf.BaseCarpentersTableRecipe.defaultIngredientFilter,
                     effectWorking = EffecterDefOf.ConstructMetal,
                     soundWorking = SoundDefOf.Building_Complete,

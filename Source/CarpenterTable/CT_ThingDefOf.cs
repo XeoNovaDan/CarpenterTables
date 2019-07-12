@@ -13,7 +13,7 @@ namespace CarpenterTable
     public static class CT_ThingDefOf
     {
 
-        public static ThingDef CarpentersTable;
+        public static ThingDef TableCarpenter;
         public static ThingDef UnfinishedBuilding;
 
     }

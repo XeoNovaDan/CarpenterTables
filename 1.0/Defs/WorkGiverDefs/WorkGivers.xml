@@ -7,7 +7,7 @@
         <workType>Construction</workType>
         <priorityInType>79</priorityInType>
         <fixedBillGiverDefs>
-            <li>CarpentersTable</li>
+            <li>TableCarpenter</li>
         </fixedBillGiverDefs>
         <verb>do carpentry</verb>
         <gerund>doing carpentry at</gerund>
