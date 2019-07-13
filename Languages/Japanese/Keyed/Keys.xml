@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Settings -->
+  <CarpenterTables.SettingsCategory>Carpenter Tables</CarpenterTables.SettingsCategory>
+
+  <CarpenterTables.DeconstructInadequateProducts>組み立てた低品質の家具を自動的に分解する</CarpenterTables.DeconstructInadequateProducts>
+  <CarpenterTables.DeconstructInadequateProducts_ToolTip>この設定が有効になっていると、建築スキルを持つポーンは、木工加工台で組み立てた家具で品質条件を満たしていない家具を、自動的に解体します。</CarpenterTables.DeconstructInadequateProducts_ToolTip>
+
+</LanguageData>
