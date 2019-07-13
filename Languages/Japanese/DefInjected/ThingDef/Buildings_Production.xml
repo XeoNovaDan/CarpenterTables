@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TableCarpenter.label>木工加工台</TableCarpenter.label>
+  <TableCarpenter.description>建設を割り当てたポーンが家具を組み立てるための便利な道具が揃った作業台です。</TableCarpenter.description>
+  <Blueprint_TableCarpenter.label>木工加工台(設計)</Blueprint_TableCarpenter.label>
+  <Blueprint_Install_TableCarpenter.label>木工加工台(移動先)</Blueprint_Install_TableCarpenter.label>
+  <Frame_TableCarpenter.label>木工加工台(施行)</Frame_TableCarpenter.label>
+  <Frame_TableCarpenter.description>建設を割り当てたポーンが家具を組み立てるための便利な道具が揃った作業台です。</Frame_TableCarpenter.description>
+
+</LanguageData>
