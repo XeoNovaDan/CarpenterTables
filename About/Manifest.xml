@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Manifest>
-    <identifier>CarpentersTable</identifier>
+    <identifier>CarpenterTables</identifier>
     <version>1.0</version>
+    <loadAfter>
+        <li>MinifyEverything</li>
+    </loadAfter>
     <manifestUri>https://rawgit.com/XeoNovaDan/CarpentersTable/master/About/Manifest.xml</manifestUri>
     <downloadUri>https://github.com/XeoNovaDan/CarpentersTable/releases</downloadUri>
 </Manifest>
