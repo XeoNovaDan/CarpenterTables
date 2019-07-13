@@ -1,0 +1,9 @@
+<LanguageData>
+
+    <!-- Settings -->
+    <CarpenterTables.SettingsCategory>Carpenter Tables</CarpenterTables.SettingsCategory>
+
+    <CarpenterTables.DeconstructInadequateProducts>Automatically deconstruct assembled low-quality furniture</CarpenterTables.DeconstructInadequateProducts>
+    <CarpenterTables.DeconstructInadequateProducts_ToolTip>If this setting is enabled, constructors will automatically deconstruct any furniture assembled at a carpenter's table that doesn't meet the bill's quality requirements.</CarpenterTables.DeconstructInadequateProducts_ToolTip>
+
+</LanguageData>

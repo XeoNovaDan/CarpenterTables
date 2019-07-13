@@ -6,3 +6,7 @@ E:\Documents\GitHub\CarpentersTable\Source\CarpenterTable\obj\Debug\CarpenterTab
 E:\Documents\GitHub\CarpentersTable\Source\CarpenterTable\obj\Debug\CarpenterTable.csproj.CoreCompileInputs.cache
 E:\Documents\GitHub\CarpentersTable\Source\CarpenterTable\obj\Debug\CarpenterTable.dll
 E:\Documents\GitHub\CarpentersTable\1.0\Assemblies\CarpenterTable.dll
+E:\Documents\GitHub\CarpenterTables\1.0\Assemblies\CarpenterTable.dll
+E:\Documents\GitHub\CarpenterTables\Source\CarpenterTable\obj\Debug\CarpenterTable.csprojAssemblyReference.cache
+E:\Documents\GitHub\CarpenterTables\Source\CarpenterTable\obj\Debug\CarpenterTable.csproj.CoreCompileInputs.cache
+E:\Documents\GitHub\CarpenterTables\Source\CarpenterTable\obj\Debug\CarpenterTable.dll

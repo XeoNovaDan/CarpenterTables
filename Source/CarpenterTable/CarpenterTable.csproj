@@ -52,8 +52,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CarpenterTables.cs" />
     <Compile Include="CT_RecipeDefOf.cs" />
+    <Compile Include="HarmonyPatches\Patch_Dialog_BillConfig.cs" />
     <Compile Include="HarmonyPatches\Patch_Toils_Recipe.cs" />
+    <Compile Include="CarpenterTablesSettings.cs" />
     <Compile Include="UnfinishedBuilding.cs" />
     <Compile Include="CT_ThingDefOf.cs" />
     <Compile Include="HarmonyPatches\Patch_RecipeDef.cs" />
