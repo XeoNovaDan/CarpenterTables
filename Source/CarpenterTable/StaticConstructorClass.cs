@@ -65,7 +65,7 @@ namespace CarpenterTable
                     foreach (ThingDefCountClass normalMaterialCost in buildingDef.costList)
                     {
                         var materialIngredientCount = new IngredientCount();
-                        materialIngredientCount.SetBaseCount(normalMaterialCost.count);
+                        materialIngredientCount.SetBaseCount(normalMaterialCost.count * normalMaterialCost.thingDef.VolumePerUnit);
                         materialIngredientCount.filter.SetAllow(normalMaterialCost.thingDef, true);
                         newRecipe.ingredients.Add(materialIngredientCount);
                     }

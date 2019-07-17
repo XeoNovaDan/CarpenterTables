@@ -13,6 +13,7 @@ namespace CarpenterTable
     {
 
         public static bool deconstructInadequateProducts = true;
+        public static bool restrictFurnitureConstruction = false;
 
         public void DoWindowContents(Rect wrect)
         {
@@ -27,6 +28,10 @@ namespace CarpenterTable
             options.Gap();
             options.CheckboxLabeled("CarpenterTables.DeconstructInadequateProducts".Translate(), ref deconstructInadequateProducts, "CarpenterTables.DeconstructInadequateProducts_ToolTip".Translate());
 
+            // Restrict furniture construction
+            options.Gap();
+            options.CheckboxLabeled("CarpenterTables.RestrictFurnitureConstruction".Translate(), ref restrictFurnitureConstruction, "CarpenterTables.RestrictFurnitureConstruction_ToolTip".Translate());
+
             // Finish
             options.End();
             Mod.GetSettings<CarpenterTablesSettings>().Write();
@@ -36,6 +41,7 @@ namespace CarpenterTable
         public override void ExposeData()
         {
             Scribe_Values.Look(ref deconstructInadequateProducts, "deconstructInadequateProducts", true);
+            Scribe_Values.Look(ref restrictFurnitureConstruction, "restrictFurnitureConstruction", false);
         }
 
     }
