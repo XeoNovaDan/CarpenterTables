@@ -5,6 +5,6 @@
     <loadAfter>
         <li>MinifyEverything</li>
     </loadAfter>
-    <manifestUri>https://rawgit.com/XeoNovaDan/CarpentersTable/master/About/Manifest.xml</manifestUri>
-    <downloadUri>https://github.com/XeoNovaDan/CarpentersTable/releases</downloadUri>
+    <manifestUri>https://rawgit.com/XeoNovaDan/CarpenterTables/master/About/Manifest.xml</manifestUri>
+    <downloadUri>https://github.com/XeoNovaDan/CarpenterTables/releases</downloadUri>
 </Manifest>
