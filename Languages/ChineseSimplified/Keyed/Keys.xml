@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Settings -->
+  <CarpenterTables.SettingsCategory>木匠台</CarpenterTables.SettingsCategory>
+
+  <CarpenterTables.DeconstructInadequateProducts>自动拆除组装好的低品质家具</CarpenterTables.DeconstructInadequateProducts>
+  <CarpenterTables.DeconstructInadequateProducts_ToolTip>若启用该选项，建造者将在木匠台自动拆除不符合清单品质要求的组装好的家具。</CarpenterTables.DeconstructInadequateProducts_ToolTip>
+
+  <CarpenterTables.RestrictFurnitureConstruction>限制家具制作点</CarpenterTables.RestrictFurnitureConstruction>
+  <CarpenterTables.RestrictFurnitureConstruction_ToolTip>若启用该选项，家具只能在木匠台制作。</CarpenterTables.RestrictFurnitureConstruction_ToolTip>
+
+</LanguageData>

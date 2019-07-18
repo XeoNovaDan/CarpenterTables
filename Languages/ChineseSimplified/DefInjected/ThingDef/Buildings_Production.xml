@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TableCarpenter.label>木匠台</TableCarpenter.label>
+  <TableCarpenter.description>一张让建造者在上面装配家具的重桌。</TableCarpenter.description>
+  <TableCarpenter_Blueprint.label>木匠台(蓝图)</TableCarpenter_Blueprint.label>
+  <TableCarpenter_Blueprint_Install.label>木匠台(蓝图)</TableCarpenter_Blueprint_Install.label>
+  <TableCarpenter_Frame.label>木匠台(建造中)</TableCarpenter_Frame.label>
+  <TableCarpenter_Frame.description>一张让建造者在上面装配家具的重桌。</TableCarpenter_Frame.description>
+
+
+</LanguageData>

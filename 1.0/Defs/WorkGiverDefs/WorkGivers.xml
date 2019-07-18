@@ -5,7 +5,7 @@
         <label>do carpentry</label>
         <giverClass>WorkGiver_DoBill</giverClass>
         <workType>Construction</workType>
-        <priorityInType>79</priorityInType>
+        <priorityInType>55</priorityInType>
         <fixedBillGiverDefs>
             <li>TableCarpenter</li>
         </fixedBillGiverDefs>
