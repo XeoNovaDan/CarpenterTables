@@ -7,4 +7,7 @@
   <CarpenterTables.DeconstructInadequateProducts>組み立てた低品質の家具を自動的に分解する</CarpenterTables.DeconstructInadequateProducts>
   <CarpenterTables.DeconstructInadequateProducts_ToolTip>この設定が有効になっていると、建築スキルを持つポーンは、木工加工台で組み立てた家具で品質条件を満たしていない家具を、自動的に解体します。</CarpenterTables.DeconstructInadequateProducts_ToolTip>
 
+  <CarpenterTables.RestrictFurnitureConstruction>家具の組み立てを制限する</CarpenterTables.RestrictFurnitureConstruction>
+  <CarpenterTables.RestrictFurnitureConstruction_ToolTip>この設定を有効にすると、家具類は木工加工台でしか生産できなくなります。</CarpenterTables.RestrictFurnitureConstruction_ToolTip>
+
 </LanguageData>
